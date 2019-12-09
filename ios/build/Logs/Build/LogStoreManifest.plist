@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>77CA2603-FAEA-42EA-AB58-6EE20857E480</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>77CA2603-FAEA-42EA-AB58-6EE20857E480.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>PacificArtGallery project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>PacificArtGallery</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace PacificArtGallery with scheme PacificArtGallery and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>573454052.95806301</real>
+			<key>timeStoppedRecording</key>
+			<real>573454061.09353197</real>
+			<key>title</key>
+			<string>Building workspace PacificArtGallery with scheme PacificArtGallery and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>77CA2603-FAEA-42EA-AB58-6EE20857E480</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,4 @@
+#Tue Mar 05 14:31:59 ICT 2019
+base.0=/Users/nguyenvanlong/Desktop/Project/artgallery_mobile/android/app/build/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,19 @@
+chu y tab
+- khi xay dung ung dung nay => navigator 
+    B1: tao switchScreen
+    B2: tao tabBottom
+    B2.1: tao cac man hinh con cua tabBottom
+     => chu y: naviagate without tab(top/bottom) : 
+     + đẻ chuyển màn hình và bỏ đi tab =>
+     B1: tạo tab với màn hình cơ bản ,
+     B2: tạo 1 stackNaviagator gồm tất cả các màn hình sau(naviagate tới)  và  tab ở bước 1
+     B3: truyền pram để chuyển màn hình (có bao nhiêu appContainer phải tạo bấy nhiêu lần truyền)
+        Như trong ứng dụng này => truyền từ tabBottom => tabTop
+        static router = StackTabTopFineArtTag.router; //1
+         render() {
+            const { navigation } = this.props;//2 pass navigation // 2
+
+            return (
+                <StackTabTopFineArtTag   navigation={navigation} /> //3
+            );
+        }
